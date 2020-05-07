@@ -1,0 +1,67 @@
+[
+    {
+        "model-name": "Roles",
+        "resource-file": "roles.json",
+        "table-name": "roles"
+    },
+    {
+        "model-name": "RolesHasPermissions",
+        "resource-file": "roles_has_permissions.json",
+        "table-name": "roles_has_permissions"
+    },
+    {
+        "model-name": "RoleHasPermissions",
+        "resource-file": "role_has_permissions.json",
+        "table-name": "role_has_permissions"
+    },
+    {
+        "model-name": "Permissions",
+        "resource-file": "permissions.json",
+        "table-name": "permissions"
+    },
+    {
+        "model-name": "Alts",
+        "resource-file": "alts.json",
+        "table-name": "alts"
+    },
+    {
+        "model-name": "Characters",
+        "resource-file": "characters.json",
+        "table-name": "characters"
+    },
+    {
+        "model-name": "Corporations",
+        "resource-file": "corporations.json",
+        "table-name": "corporations"
+    },
+    {
+        "model-name": "EveMail",
+        "resource-file": "eve_mails.json",
+        "table-name": "eve_mails"
+    },
+    {
+        "model-name": "Evemail",
+        "resource-file": "evemails.json",
+        "table-name": "evemails"
+    },
+    {
+        "model-name": "Channels_maillist",
+        "resource-file": "channels_maillists.json",
+        "table-name": "channels_maillists"
+    },
+    {
+        "model-name": "Invites",
+        "resource-file": "invites.json",
+        "table-name": "invites"
+    },
+    {
+        "model-name": "notificaton_eve",
+        "resource-file": "notificaton_eves.json",
+        "table-name": "notification_eve"
+    },
+    {
+        "model-name": "evenotifs",
+        "resource-file": "evenotifs.json",
+        "table-name": "evenotifs"
+    }
+]
